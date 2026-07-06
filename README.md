@@ -1,12 +1,16 @@
-# 안녕하세요, 윤동주입니다 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=6395C9&height=180&section=header&text=Dongju's%20Github&fontSize=70&fontColor=ffffff)
 
-현업 실무자와 직접 협업하며 **기획 → 설계 → 개발 → 배포**의 전 주기를 독립적으로 수행하는 서버/백엔드 개발자입니다.
-반복되는 수작업을 자동화 시스템으로 바꾸는 일에 관심이 많고, 실제로 만든 도구가 현업에서 매일 쓰이는 걸 보는 게 제일 즐겁습니다.
+## 안녕하세요, 윤동주입니다.<br>
+AX 및 자동화와 백엔드 개발에 관심이 많고, 문제 정의부터 설계부터 구현, 검증까지 전 과정을 직접 연결하는 사람입니다.
+큰 문제를 작은 실행 단위로 쪼개고, 만든 것을 지표와 실제 사용자 반응으로 검증한 뒤 다음 개선으로 이어가는 방식을 좋아합니다!
 
-- 🔭 최근에는 신규 교육 과정 개설 과정을 통째로 자동화하는 백엔드 플랫폼을 혼자 기획·개발·배포했습니다
-- 🌱 Claude / Claude Code를 실무 자동화와 개발 워크플로우에 적극적으로 활용하고 있습니다
-- 📫 연락처: dongju08299@gmail.com
-
+- 📫 메일: dongju08299@gmail.com
+- 📱 전화: 010-5825-9003
+<p>
+  <img src="certs/claude-101.png" alt="Claude 101" width="270" />
+  <img src="certs/claude-code-in-action.png" alt="Claude Code in Action" width="270" />
+  <img src="certs/claude-api.png" alt="Claude with the Anthropic API" width="270" />
+</p>
 ---
 
 ## 🛠 Tech Stack
@@ -15,7 +19,7 @@
 `Java` `Spring Framework` `TypeScript` `Node.js` `NestJS`
 
 **Database & Infra**
-`MySQL` `MongoDB` `Docker` `Amazon ECR` `Amazon ECS` `Firebase`
+`MySQL` `MongoDB` `Amazon EC2` `Docker` `Amazon ECR` `Amazon ECS` `Firebase`
 
 **Frontend**
 `React` `JavaScript` `HTML5` `CSS3`
